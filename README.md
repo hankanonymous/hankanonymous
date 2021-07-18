@@ -6,6 +6,7 @@
 - I look at the world from a AnCapChristian point of view.
 - I am currently building out https://PrivacyVigilante.com, I hope to launch it August 1st, 2021
 - <><
+- If you're interested in having an indepth review of your project, please contact me at hankanon@protonmail.com
 
 <!---
 hankanonymous/hankanonymous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
