@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on grading privacy assets and protocols.
 - 📫 How to reach me hankanon@protonmail.com
 - I look at the world from a AnCapChristian point of view.
-- I am currently building out PrivacyVigilante.com, I hope to launch it August 1st, 2021
+- I am currently building out https://PrivacyVigilante.com, I hope to launch it August 1st, 2021
 - <><
 
 <!---
